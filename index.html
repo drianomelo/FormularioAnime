@@ -1,0 +1,114 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>FCA | Formulário de Anime</title>
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@400;500;600;700&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="assets/css/base.css">
+</head>
+<body>
+    <header class="cabecalho">
+
+        <div class="cabecalho__logo">
+            <img class="cabecalho__imagem" src="assets/img/logo.png" alt="Logotipo">
+            <div class="cabecalho__texto">
+                <h1 class="cabecalho__titulo">FCA: Formulário de Anime</h1>
+                <p class="cabecalho__subtitulo">preencha sobre seu anime favorito</p>
+            </div>
+        </div>
+        <div class="cabecalho__menu">
+            <ul class="cabecalho__menu-lista">
+                <li class="cabecalho__menu-item"><a href="#" class="cabecalho__menu-link"><i class="fa-solid fa-share cabecalho__menu-link--icone"></i></a></li>
+                <li class="cabecalho__menu-item"><a href="#" class="cabecalho__menu-link">Conecte-se</a></li>
+                <li class="cabecalho__menu-item"><a href="#" class="cabecalho__menu-link cabecalho__menu-link--destaque">Cadastre-se</a></li>
+            </ul>
+        </div>
+
+    </header>
+
+    <main>
+
+        <section class="textos">
+            <h2 class="textos__titulo">Formulário de Anime</h2>
+            <p class="textos__subtitulo">Desde membros da akatsuki até hashiras, qualquer um é aceito</p>
+        </section>
+
+        <form class="formulario">
+            <fieldset>
+                <div>
+                    <label for="nome" class="formulario__label">Nome</label>
+                    <input type="text" placeholder="  Nome do seu anime" id="nome" class="formulario__input" required>
+                </div>
+                <div> 
+                    <label for="nome" class="formulario__label">Personagem</label>
+                    <input type="text" placeholder="  Nome do seu personagem favorito no anime" id="nome" class="formulario__input" required>
+                </div>
+                <div>
+                    <label for="nome" class="formulario__label">Abertura (opcional)</label>
+                    <input type="text" placeholder="  Nome da sua abertura favorita no anime" id="nome" class="formulario__input" required>
+                </div>
+            </fieldset>
+
+            <div>
+                <label class="formulario__label">Qual o gênero do anime?</label>
+                <select id="genero" class="formulario__select">
+                    <option selected disabled>Selecione</option>
+                    <option>Ação</option>
+                    <option>Aventura</option>
+                    <option>Sci-Fi</option>
+                    <option>Terror</option>
+                    <option>Mistério</option>
+                    <option>Romance</option>
+                </select>
+            </div>
+
+            <div class="formulario__radios">
+                <label class="formulario__label">Quantos episódios seu anime tem?</label>
+                <label class="formulario__label formulario__label--radio">
+                    <input type="radio" value="menos de 100" checked> menos de 100
+                </label>
+                <label class="formulario__label formulario__label--radio">
+                    <input type="radio" value="mais de 100"> mais de 100
+                </label>
+                <label class="formulario__label formulario__label--radio">
+                    <input type="radio" value="mais de 200"> mais de 200
+                </label>
+                <label class="formulario__label formulario__label--radio">
+                    <input type="radio" value="mais de 300"> mais de 300
+                </label>
+                <label class="formulario__label formulario__label--radio">
+                    <input type="radio" value="mais de 400"> mais de 400
+                </label>
+                <label class="formulario__label formulario__label--radio">
+                    <input type="radio" value="one piece"> one piece
+                </label>
+            </div>
+
+            <div>
+                <label for="arco" class="formulario__label">Qual sua parte favorita no anime?</label>
+                <textarea class="formulario__textarea" name="arco" id="arco" rows="10" placeholder="Conte sobre seu arco favorito..."></textarea>
+            </div>
+
+            <div>
+                <label class="formulario__label">Você indicaria esse anime?</label>
+                <div>
+                    <input type="checkbox" id="com-certeza" value="com-certeza">
+                    <label for="com-certeza" class="formulario__label formulario__label--check">Com certeza</label>
+                </div>
+                <div>
+                    <input type="checkbox" id="nao-mesmo" value="nao-mesmo">
+                    <label for="nao-mesmo" class="formulario__label formulario__label--check">Não mesmo</label>
+                </div>
+            </div>
+
+            <button type="submit" class="formulario__botao">Enviar</button>
+        </form>
+    </main>
+
+    <script src="https://kit.fontawesome.com/555bf53180.js" crossorigin="anonymous"></script>
+</body>
+</html>

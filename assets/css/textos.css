@@ -1,0 +1,18 @@
+.textos {
+    text-align: center;
+
+    padding: 3em;
+}
+
+.textos__titulo {
+    font-size: 2em;
+    font-weight: 600;
+
+    margin-bottom: .3em;
+}
+
+.textos__subtitulo {
+    font-size: 1em;
+    color: var(--cinza);
+    font-weight: 400;
+}

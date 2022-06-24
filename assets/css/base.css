@@ -1,0 +1,26 @@
+@import url(reset.css);
+@import url(cabecalho.css);
+@import url(formulario.css);
+@import url(textos.css);
+
+:root {
+    --preto-padrao: #000000;
+    --branco: #FFF;
+    --cinza-botao: #444857;
+    --verde-padrao: #47CF73;
+    --fonte: 'Poppins', sans-serif;
+    --cinza: #9b9dad;
+    --fundo-formulario: #1b1b32cc;
+}
+
+body {
+    background-image: url(../img/background.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+
+    color: var(--branco);
+
+    font-family: var(--fonte);
+    font-size: 16px;
+    font-weight: 400;
+}
