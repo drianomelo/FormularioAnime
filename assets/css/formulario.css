@@ -57,6 +57,7 @@
 
 .formulario__botao {
     background-color: var(--verde-padrao);
+    border: none;
     border-radius: .5em;
     color: var(--branco);
 
