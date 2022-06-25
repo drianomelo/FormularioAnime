@@ -48,3 +48,17 @@
     color: var(--branco);
 }
 
+@media screen and (max-width: 425px) {
+    .cabecalho__titulo, .cabecalho__subtitulo {
+        display: none;
+    }
+
+    .cabecalho__menu-item--icone {
+        display: none;
+    }
+    .cabecalho__menu-link {
+        font-size: .7em;
+        padding: .7em 1em;
+        margin: 0 .5em;
+    }
+}
