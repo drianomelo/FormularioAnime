@@ -7,15 +7,17 @@
 ## Índice 
 
 * [Descrição do Projeto](#descrição-do-projeto)
-* [Status do Projeto](#status-do-Projeto)
-* [Funcionalidades e Demonstração da Aplicação](#funcionalidades-e-demonstração-da-aplicação)
+* [Aplicação](#aplicação)
 * [Acesso ao Projeto](#acesso-ao-projeto)
 * [Tecnologias utilizadas](#tecnologias-utilizadas)
 * [Pessoas Contribuidoras](#pessoas-contribuidoras)
 * [Pessoas Desenvolvedoras do Projeto](#pessoas-desenvolvedoras)
 * [Conclusão](#conclusão)
 
-<h1> Descrição do Projeto </h1>
+<h2> Descrição do Projeto </h2>
 <p>
-Projeto em desenvolvimento, planejado para testar habilidades em HTML e CSS, tanto na parte semântica de ambos, como na funcionalidade visuais dos mesmos. Uma página simple contendo um cabeçalho e um formulário com todas as possibilidades de entradas.
+Projeto em desenvolvimento, planejado para testar habilidades em HTML e CSS, tanto na parte semântica de ambos, como na funcionalidade visuais dos mesmos. Uma página simples contendo um cabeçalho e um formulário com todas as possibilidades de entradas. Responsivo para todos os aparelhos.
 </p>
+
+<h2> Aplicação </h2>
+![celular](https://user-images.githubusercontent.com/85702814/176004675-2bc01757-071a-4da3-9442-5f7919069a51.jpeg)
