@@ -14,10 +14,19 @@
 * [Pessoas Desenvolvedoras do Projeto](#pessoas-desenvolvedoras)
 * [Conclusão](#conclusão)
 
-<h2> Descrição do Projeto </h2>
-<p>
+## Descrição do Projeto 
+
+<p align="justify">
 Projeto em desenvolvimento, planejado para testar habilidades em HTML e CSS, tanto na parte semântica de ambos, como na funcionalidade visuais dos mesmos. Uma página simples contendo um cabeçalho e um formulário com todas as possibilidades de entradas. Responsivo para todos os aparelhos.
 </p>
 
-<h2> Aplicação </h2>
-![celular](https://user-images.githubusercontent.com/85702814/176004675-2bc01757-071a-4da3-9442-5f7919069a51.jpeg)
+## Aplicação
+
+<div align="center">
+
+![celular](https://user-images.githubusercontent.com/85702814/176005728-a9028b37-749d-480b-b968-f6a563038d59.jpeg)
+
+  </div>
+
+## Acesso ao projeto
+
