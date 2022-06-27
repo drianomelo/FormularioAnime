@@ -24,7 +24,7 @@ Projeto em desenvolvimento, planejado para testar habilidades em HTML e CSS, tan
 
 <div align="center">
 
-![celular]<img src="https://user-images.githubusercontent.com/85702814/176005728-a9028b37-749d-480b-b968-f6a563038d59.jpeg"  width="100" height="590">
+<img src="https://user-images.githubusercontent.com/85702814/176005728-a9028b37-749d-480b-b968-f6a563038d59.jpeg"  width="300" height="590">
 
   </div>
 
