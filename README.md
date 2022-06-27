@@ -10,7 +10,6 @@
 * [Aplicação](#aplicação)
 * [Acesso ao Projeto](#acesso-ao-projeto)
 * [Tecnologias utilizadas](#tecnologias-utilizadas)
-* [Pessoas Contribuidoras](#pessoas-contribuidoras)
 * [Pessoas Desenvolvedoras do Projeto](#pessoas-desenvolvedoras)
 * [Conclusão](#conclusão)
 
@@ -31,4 +30,16 @@ Projeto em desenvolvimento, planejado para testar habilidades em HTML e CSS, tan
 ## Acesso ao projeto
 
 Você pode [acessar o código fonte do projeto](https://github.com/drianomelo/FormularioAnime) ou [ir ao link direto](https://drianomelo.github.io/FormularioAnime/).
+
+## Tecnologias-utilizadas
+
+- ``HTML5``
+- ``CSS3``
+
+## Pessoas Desenvolvedoras do Projeto
+
+| [<img src="https://avatars.githubusercontent.com/u/85702814?s=400&u=74e1194a543720bef5c9411dcdfe3b86381810e7&v=4" width=115><br><sub>Adriano Melo</sub>](https://github.com/drianomelo) |
+| :---: | :---: | :---: | :---: 
+
+
 
