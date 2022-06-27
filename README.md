@@ -30,3 +30,5 @@ Projeto em desenvolvimento, planejado para testar habilidades em HTML e CSS, tan
 
 ## Acesso ao projeto
 
+Você pode [acessar o código fonte do projeto](https://github.com/drianomelo/FormularioAnime) ou [ir ao link direto](https://drianomelo.github.io/FormularioAnime/).
+
